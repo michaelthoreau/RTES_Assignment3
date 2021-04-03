@@ -7,7 +7,7 @@ In this assignment you will experiment with the ADC and various capabilities wit
 The ADC (Analog-Digital Converter) is used to capture real-time voltage measures in the real world and is able to translate it into a digital signal that can be understood by code.
 Timers are also used extensively for critical timing applications such as creating waveforms or setting up communication standards between systems.
 
-The assignment will be graded according to the following:
+The assignment will be graded according to the following criteria:
 
 | Part        | Grade       |
 | ------------| ----------- |

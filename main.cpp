@@ -22,7 +22,7 @@ DigitalIn userButton(USER_BUTTON);
 PwmOut led1(PD_13);  // Look on the datasheet and find that LED1 is connected to pin PD_13
 
 
-/* main function for Assignment 2 - comment out parts you aren't currently working on */
+/* main function for Assignment 3 - comment out parts you aren't currently working on */
 int main() {
 
 	while (1) {
@@ -80,8 +80,8 @@ void part3() {
 *	Matlab or Python (Using matplotlib libraries) and submit the resulting graph as part of this assignment.
 */
 
-void extension{
+void extension() {
 	
-}
+	}
 
 

@@ -1,11 +1,11 @@
 # Real Time Embedded Systems
-### Programming Assignment 2 - Assembly
+### Programming Assignment 3 - ADC/Timers
 
 <br />
 
-The purpose of this assignment is to take a deep dive into how abstract code we write is interpreted by the compiler. You will get hands on with writing regular programming and interfacing it directly into the assembly language. 
-
-All questions should be answered by modifying the main.c file and the helpers.S assembly file; Add comments and code to the files where required and submit in a zip on NYU Classes.
+In this assignment you will experiment with the ADC and various capabilities with the Timer integrated into the microprocessor.
+The ADC (Analog-Digital Converter) is used to capture real-time voltage measures in the real world and is able to translate it into a digital signal that can be understood by code.
+Timers are also used extensively for critical timing applications such as creating waveforms or setting up communication standards between systems.
 
 The assignment will be graded according to the following:
 

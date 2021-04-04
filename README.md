@@ -20,7 +20,7 @@ The assignment will be graded according to the following criteria:
 
 ### Instructions
 
-Create a new project in platformIO as demonstrated in class. Copy the code from main.c and helpers.S in this repository to your project and modify to complete each part.
+Create a new project in platformIO as demonstrated in class. Copy the code from main.c in this repository to your project and modify to complete each part. Submit your main.c and either a .png or .jpg showing the analog voltages from the extension component all together in a zip file.
 
 
 <br />

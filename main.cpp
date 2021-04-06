@@ -49,8 +49,8 @@ void part1() {
 
 /*	Flashing LED
 *	Part 2 - Apply a PWM signal that will blink LED2 at a rate of 500Hz with a 10% duty cycle.
-*	For this part, locate LED2 on the datasheet and find what pin it is connected to. Write above in the PwmOut
-*	declarations a proper declaraction similar to the example. Apply the PWM signal to LED2 and write the code.
+*	For this part, locate LED2 on the datasheet and find what pin it is connected to. Write a PwmOut declaration
+*	in the appropriate section at the top of the file. Apply the PWM signal to LED2.
 *
 *	For this question, please note your observation of the brightness of LED1 compared to LED2.
 *	Is LED1 brighter or dimmer than LED2? Why or why not? Write your answer in a comment below:
@@ -78,7 +78,7 @@ void part3() {
 *	Set up PB_0 for PwmOut and set up PB_1 for AnalogIn. Initiate a PWM signal of 1Hz with a 20% duty cycle on PB_0.
 *	When sampling, you must short the pins PB_0 and PB_1. One method is to utilize jumper JP2 that comes with your board!
 *	For this extension, you will sample the ADC for 5 seconds at 500 samples/second. Store your samples in a buffer and then output the buffer to the terminal.
-*	From the terminal, record your data to a text file. You may graph your collected data in either Matlab or Python (Using matplotlib libraries)
+*	From the terminal, record and graph your collected data in either Matlab or Python (Using matplotlib libraries)
 *	and submit the resulting graph as a jpg/png as part of this assignment. Remember to label the x & y axis correctly.
 */
 

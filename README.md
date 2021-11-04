@@ -11,10 +11,8 @@ The assignment will be graded according to the following criteria:
 
 | Part        | Grade       |
 | ------------| ----------- |
-| 1           | 25%         |
-| 2           | 25%         |
-| 3           | 25%         |
-| extension   | 25%         |
+| 1           | 100%         |
+
 
 
 
